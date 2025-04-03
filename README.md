@@ -5,15 +5,22 @@ A busca cognitiva é uma tecnologia avançada que combina inteligência artifici
 mais precisos e relevantes. Neste documento, exploramos como configurar uma pesquisa cognitiva, suas possibilidades, ferramentas que 
 podem se beneficiar e os aprendizados adquiridos durante o processo.
 
-### Passos para Configurar
+## Passos para Configurar
 
 ### Passo 1
+
 Existem diversas plataformas que oferecem suporte para pesquisa cognitiva, como:
+Azure Cognitive Search (Microsoft),
+Google Cloud Search,
+Amazon Kendra,
+IBM Watson Discovery.
 
-Azure Cognitive Search (Microsoft)
+### Passo 2
 
-Google Cloud Search
+Definir a Fonte de Dados
 
-Amazon Kendra
-
-IBM Watson Discovery
+A busca cognitiva pode ser aplicada em diversas fontes de dados:
+Bancos de dados estruturados (SQL, NoSQL)
+Documentos (PDFs, Word, planilhas)
+Páginas da web
+Registros médicos e jurídicos
