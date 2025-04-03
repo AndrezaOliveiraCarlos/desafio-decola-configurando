@@ -63,7 +63,11 @@ Monitoramento contínuo para aprimorar a experiência do usuário.
 A busca cognitiva pode transformar diversos setores ao melhorar a eficiência na recuperação de informações:
 
  Empresas e Gestão de Documentos: Facilita a busca por contratos, e-mails e relatórios.
-🛍️ E-commerce: Oferece sugestões inteligentes baseadas no comportamento do cliente.
-📰 Mídia e Jornalismo: Organiza artigos e vídeos automaticamente.
-🏥 Saúde: Ajuda na análise de diagnósticos e prontuários médicos.
-📚 Educação: Melhora a pesquisa acadêmica e bibliotecas digitais.
+ 
+ E-commerce: Oferece sugestões inteligentes baseadas no comportamento do cliente.
+ 
+Mídia e Jornalismo: Organiza artigos e vídeos automaticamente.
+
+Saúde: Ajuda na análise de diagnósticos e prontuários médicos.
+
+Educação: Melhora a pesquisa acadêmica e bibliotecas digitais.
