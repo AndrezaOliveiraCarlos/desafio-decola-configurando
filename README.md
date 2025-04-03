@@ -6,7 +6,7 @@ Como fazer um mineração de dados:
 
 
 
-##Passo 1##
+## Passo 1
 Extrair os dados
 
 Passo 2
