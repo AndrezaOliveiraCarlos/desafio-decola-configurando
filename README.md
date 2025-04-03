@@ -1,16 +1,6 @@
-# desafio-decola-configurando
-configurando uma pesquisa
+# Desafio-Decola-Configurando
+## Introdução
 
-
-Como fazer um mineração de dados:
-
-
-
-## Passo 1
-Extrair os dados
-
-Passo 2
-Normalizar e ajustar os dados, tratar nulos, etc.. preparar os dados
-
-Passo 3
-Treinar o modelo 
+A busca cognitiva é uma tecnologia avançada que combina inteligência artificial com pesquisa tradicional para oferecer resultados 
+mais precisos e relevantes. Neste documento, exploramos como configurar uma pesquisa cognitiva, suas possibilidades, ferramentas que 
+podem se beneficiar e os aprendizados adquiridos durante o processo.
