@@ -71,3 +71,10 @@ Mídia e Jornalismo: Organiza artigos e vídeos automaticamente.
 Saúde: Ajuda na análise de diagnósticos e prontuários médicos.
 
 Educação: Melhora a pesquisa acadêmica e bibliotecas digitais.
+
+ ## Aprendizados Durante o Processo
+
+ A escolha da plataforma certa depende do tipo e volume de dados.
+ O uso de IA melhora a experiência do usuário ao entender a intenção por trás das buscas.
+ É essencial realizar testes constantes para refinar os resultados.
+ Combinar diferentes técnicas de IA potencializa a precisão da pesquisa.
